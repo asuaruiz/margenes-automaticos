@@ -1,0 +1,14 @@
+.laboratoria {
+	width: 200px;
+	height: auto;
+	text-align: center;
+	border: 15px solid yellow;
+	padding: 20px 30px;
+}
+.descripcion {
+	width: 200px;
+	height: auto;
+	border: 15px solid yellow;
+	padding: 20px 30px;
+	margin: 0 auto;
+}
